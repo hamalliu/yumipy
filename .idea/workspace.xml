@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc15efc3-51bd-4cba-9e2b-248a44aa69da" name="Default Changelist" comment="" />
+    <list default="true" id="dc15efc3-51bd-4cba-9e2b-248a44aa69da" name="Default Changelist" comment="init" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,7 @@
       <workItem from="1571368646126" duration="5480000" />
       <workItem from="1571639411474" duration="9478000" />
       <workItem from="1571711828124" duration="12426000" />
-      <workItem from="1571758556057" duration="650000" />
+      <workItem from="1571758556057" duration="933000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1571758654241</created>
