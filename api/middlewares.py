@@ -1,2 +1,2 @@
-def ParseParams():
+def parse_params():
     return

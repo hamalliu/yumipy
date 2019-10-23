@@ -17,8 +17,7 @@ def create_app(test_config=None):
         pass
 
     # 初始化db
-    from . import db
+    import db
     db.init_db(app)
 
     return app
-
