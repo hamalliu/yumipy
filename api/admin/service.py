@@ -1,6 +1,6 @@
 def login():
     # todo
-    return
+    return "hello world"
 
 
 def logout():
